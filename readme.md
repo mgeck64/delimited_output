@@ -1,4 +1,4 @@
-delimited_output
+#delimited_output
 Provides a stream inserter that recursively outputs the contents of aggregate objects such as pairs, tuples and container-like objects.
 
 Usage example:
