@@ -1,5 +1,5 @@
-#ifndef DELIMITED_OUTPUT_H
-#define DELIMITED_OUTPUT_H
+#ifndef DELIMITED_OUTPUT_HPP
+#define DELIMITED_OUTPUT_HPP
 
 #include <ostream>
 #include <tuple>
@@ -337,4 +337,4 @@ output(const T& x, const delimiters&, bool, std::ostream& out)
 
 } // namespace delimited_output
 
-#endif // DELIMITED_OUTPUT_H
+#endif // DELIMITED_OUTPUT_HPP

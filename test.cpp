@@ -1,4 +1,4 @@
-#include "delimited_output.h"
+#include "delimited_output.hpp"
 
 #include <iostream>
 #include <algorithm>
